@@ -1,0 +1,22 @@
+{
+  "name": "tche-sample-game",
+  "homepage": "https://github.com/Hudell/tche-sample-game",
+  "authors": [
+    "Guilherme Gazzo <guilhermegazzo@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tche": "https://github.com/Hudell/tche.git"
+  }
+}
